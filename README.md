@@ -2,12 +2,14 @@
 
 >Hi, I'm *Melody Cheung*
 
-Some of my Hobbies are
+Some of my **Hobbies** are
 
 - Drawing/Painting
 - Baking
 - Sleeping
 - Gyming
+
+---
 
 Labs
 1. GHDL and GTKWave
