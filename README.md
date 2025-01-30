@@ -23,6 +23,6 @@ Labs
 9. YANG
 10. Blockchain
 
-[Cat video] (https://www.youtube.com/watch?v=6mOcNbLXhqk)
+[Cat video](https://www.youtube.com/watch?v=6mOcNbLXhqk)
 
 ![Cat](images.jpg)
