@@ -2,9 +2,7 @@
 
 >Hi, I'm *Melody Cheung*
 
-"""
-print ("Hello World")
-"""
+`print ("Hello World")`
 
 Some of my **Hobbies** are
 
