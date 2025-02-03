@@ -25,7 +25,7 @@ Labs
 9. YANG
 10. Blockchain
 
-[Team Website] (https://sites.google.com/d/1ugoRoS7jl3VmNRfFU_vWG6DKe_QO-6IW/p/1QD3zdzRJaGsABFEc4Q5WR2nJ0h_wOvox/edit)
+[Team Website](https://sites.google.com/d/1ugoRoS7jl3VmNRfFU_vWG6DKe_QO-6IW/p/1QD3zdzRJaGsABFEc4Q5WR2nJ0h_wOvox/edit)
 
 [Cat video](https://www.youtube.com/watch?v=6mOcNbLXhqk)
 
