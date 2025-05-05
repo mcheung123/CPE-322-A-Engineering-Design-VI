@@ -40,7 +40,7 @@
 ![0](mkdir_demo.png)
 
 ## $ cd demo
-![0](cd-demo.png)
+![0](cd_demo.png)
 
 ## $ nano file
 ![0](Lab_01_HalfAdderCode.png)
