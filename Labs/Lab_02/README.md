@@ -70,10 +70,10 @@
 ![0](Lab_01_HalfAdderCode.png)
 
 ## $ ping localhost
-![0](Lab_01_HalfAdderCode.png)
+![0](ping.png)
 
 ## $ netstat
-![0](Lab_01_HalfAdderCode.png)
+![0](netstat.png)
 
 ## Summary
 In this lab, I learned how to install and use GHDL and GTKWave, two essential tools for simulating and debugging digital circuits. GHDL compiles VHDL files—used to describe digital circuit behavior—into machine code, while GTKWave provides a visual interface to observe circuit activity. Together, these tools support hardware design, testing, documentation, and verification.
