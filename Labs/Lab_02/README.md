@@ -19,16 +19,16 @@
 ![0](ps3.png)
 
 ## $ pwd
-![0](Lab_01_HalfAdderCode.png)
+![0](pwd.png)
 
 ## $ git clone https://github.com/kevinwlu/iot.git
-![0](Lab_01_HalfAdderCode.png)
+![0](gitclone.png)
 
 ## $ cd iot
-![0](Lab_01_HalfAdderCode.png)
+![0](cd_iot.png)
 
 ## $ ls
-![0](Lab_01_HalfAdderCode.png)
+![0](ls.png)
 
 ## $ cd
 ![0](Lab_01_HalfAdderCode.png)
@@ -37,10 +37,10 @@
 ![0](Lab_01_HalfAdderCode.png)
 
 ## $ mkdir demo
-![0](Lab_01_HalfAdderCode.png)
+![0](mkdir_demo.png)
 
 ## $ cd demo
-![0](Lab_01_HalfAdderCode.png)
+![0](cd-demo.png)
 
 ## $ nano file
 ![0](Lab_01_HalfAdderCode.png)
@@ -58,7 +58,7 @@
 ![0](Lab_01_HalfAdderCode.png)
 
 ## $ clear
-![0](Lab_01_HalfAdderCode.png)
+![0](clear.png)
 
 ## $ man uname
 ![0](Lab_01_HalfAdderCode.png)
