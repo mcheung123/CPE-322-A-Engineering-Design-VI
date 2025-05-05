@@ -24,7 +24,8 @@
 ## $ git clone https://github.com/kevinwlu/iot.git
 ![0](Lab_01_HalfAdderCode.png)
 
-## $ cd it![0](Lab_01_HalfAdderCode.png)
+## $ cd iot
+![0](Lab_01_HalfAdderCode.png)
 
 ## $ ls
 ![0](Lab_01_HalfAdderCode.png)
