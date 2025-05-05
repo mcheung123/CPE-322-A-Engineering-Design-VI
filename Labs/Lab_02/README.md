@@ -10,7 +10,7 @@
 ![0](hostname.png)
 
 ## $ env
-![0](Lab_01_HalfAdderCode.png)
+![0](env.png)
 
 ## $ ps
 ![0](ps0.png)
@@ -31,10 +31,10 @@
 ![0](ls.png)
 
 ## $ cd
-![0](Lab_01_HalfAdderCode.png)
+![0](cd.png)
 
 ## $ df
-![0](Lab_01_HalfAdderCode.png)
+![0](df.png)
 
 ## $ mkdir demo
 ![0](mkdir_demo.png)
@@ -43,19 +43,20 @@
 ![0](cd_demo.png)
 
 ## $ nano file
-![0](Lab_01_HalfAdderCode.png)
+In the nano file I pu "xx"
+![0](nano.png)
 
 ## $ cat file
-![0](Lab_01_HalfAdderCode.png)
+![0](cat_file.png)
 
 ## $ cp file file1
-![0](Lab_01_HalfAdderCode.png)
+![0](cp_file_file1.png)
 
 ## $ mv file file2
-![0](Lab_01_HalfAdderCode.png)
+![0](mv_file_file2.png)
 
 ## $ rm file2
-![0](Lab_01_HalfAdderCode.png)
+![0](rm_file2.png)
 
 ## $ clear
 ![0](clear.png)
