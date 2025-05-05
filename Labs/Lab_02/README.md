@@ -62,10 +62,10 @@ In the nano file I pu "xx"
 ![0](clear.png)
 
 ## $ man uname
-![0](Lab_01_HalfAdderCode.png)
+
 
 ## $ uname -a
-![0](Lab_01_HalfAdderCode.png)
+![0](uname.png)
 
 ## $ ipconfig
 ![0](ipconfig.png)
