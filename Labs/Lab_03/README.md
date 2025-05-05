@@ -29,24 +29,24 @@ I installed using the Python launcher because I was having issues
 ![0](5.png)
 
 ## $ python3 sun.py "New York"
-![0](env.png)
+![0](6.png)
 
 ## $ python3 moon.py
-![0](env.png)
+![0](7.png)
 
 ## $ python3 coordinates.py "Samuel C. Williams Library"
-![0](env.png)
+![0](8.png)
 
 ## $ python3 address.py "40.74480675, -74.02532861159351"
-![0](env.png)
+![0](9.png)
 
 ## $ python3 cpu.py
-![0](env.png)
+![0](10.png)
 
 ## $ python3 battery.py
-![0](env.png)
+![0](11.png)
 
 ## $ python3 documentstats.py document.txt
-![0](env.png)
+![0](12.png)
 
 ## Summary
