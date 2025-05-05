@@ -3,30 +3,30 @@
 ## Instructions
 
 - Go to the [repository](https://github.com/kevinwlu/iot) 
-- Go to Lessons 3
+- Go to Lesson 3
 - Install required Python packages such as jdcal, astral, and geopy
 
 ## Install
-I installed using the Python launcher becuase I was having issues
+I installed using the Python launcher because I was having issues
 ![0](install.png)
 
 ## $ cd ~/iot
-![0](hostname.png)
+![0](0.png)
 
 ## $ cd *3
-![0](env.png)
+![0](1.png)
 
 ## $ python3 julian.py
-![0](env.png)
+![0](2.png)
 
 ## $ python3 date_example.py
-![0](env.png)
+![0](3.png)
 
 ## $ python3 datetime_example.py
-![0](env.png)
+![0](4.png)
 
 ## python3 time_example.py
-![0](env.png)
+![0](5.png)
 
 ## $ python3 sun.py "New York"
 ![0](env.png)
