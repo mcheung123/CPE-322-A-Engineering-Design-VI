@@ -7,13 +7,16 @@
 - Open a terminal
 
 ## $ hostname
-![0](Lab_01_HalfAdderCode.png)
+![0](hostname.png)
 
 ## $ env
 ![0](Lab_01_HalfAdderCode.png)
 
 ## $ ps
-![0](Lab_01_HalfAdderCode.png)
+![0](ps0.png)
+![0](ps1.png)
+![0](ps2.png)
+![0](ps3.png)
 
 ## $ pwd
 ![0](Lab_01_HalfAdderCode.png)
