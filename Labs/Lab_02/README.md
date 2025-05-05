@@ -67,8 +67,8 @@ In the nano file I pu "xx"
 ## $ uname -a
 ![0](Lab_01_HalfAdderCode.png)
 
-## $ ifconfig
-![0](Lab_01_HalfAdderCode.png)
+## $ ipconfig
+![0](ipconfig.png)
 
 ## $ ping localhost
 ![0](ping.png)
