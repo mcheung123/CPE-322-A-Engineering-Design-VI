@@ -7,10 +7,7 @@
 - Install required Python packages such as jdcal, astral, and geopy
 
 ## Install
-I installed using the Python launcher because I was having issues
+py -m pip install -U setuptools django djangorestframework django-filter markdown requests
 ![0](install.png)
-
-## $ cd ~/iot
-![0](0.png)
 
 ## $ cd *3
