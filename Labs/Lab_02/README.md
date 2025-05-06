@@ -28,7 +28,7 @@ display the full path of the current directory you are located in
 ## $ git clone https://github.com/kevinwlu/iot.git
 makes a copy of the git repository that is located at the specified website
 ![0](gitclone.png)
-
+ 
 ## $ cd iot
 changes the working directory to IOT
 ![0](cd_iot.png)
