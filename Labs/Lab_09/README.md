@@ -15,7 +15,7 @@
 python - m pip install -U lxml pyang
 python -m pip install -U plantuml
 '''
-![0](Lab9_0.png)
+![0](lab9_0.png)
 
 ## Pyang
 copied intrusiondetection.yang into demo & switched to the demo directory with:
@@ -32,11 +32,11 @@ py -m pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=st
 Get-Content intrusiondetection.uml
 '''
 
-![0](Lab9_1.png)
-![0](Lab9_2.png)
-![0](Lab9_3.png)
-![0](Lab9_4.png)
-![0](Lab9_5.png)
+![0](lab9_1.png)
+![0](lab9_2.png)
+![0](lab9_3.png)
+![0](lab9_4.png)
+![0](lab9_5.png)
 
 ## PlantUML
 Run the command 'python -m plantuml intrusiondetection.uml' to create a sequence diagram in PNG format. Then I installed & ran GIMP and Pinta in order to display the PNG file. Downloaded Pinta and added it to my PATH. Downloaded Chocolatey and Gimp through admin powershell.
@@ -45,8 +45,8 @@ choco install gimp pinta -y
 Start-Process "C:\Program Files\Pinta\bin\Pinta.exe" "$HOME\demo\intrusiondetection.png"
 Start-Process "C:\Users\melch\AppData\Local\Programs\GIMP 3\bin\gimp.exe" "$HOME\demo\intrusiondetection.png"
 '''
-![0](Lab9_pinta.png)
-![0](Lab9_gimp.png)
+![0](lab9_pinta.png)
+![0](lab9_gimp.png)
 
 ## Summary
 In this lab, I explored how a file appears in .yang, .yin, .uml, and .png formats. I found that Pyang is a useful tool for converting YANG models to YIN or UML formats, while PlantUML is great for generating PNG images and diagrams from UML files.
